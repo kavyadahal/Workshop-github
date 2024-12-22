@@ -16,7 +16,7 @@ git commit -m" added learn.c" : saved version [master (root-commit) 98dfd45] cre
 
 git revert : goes back to before version 100644.
 
-git log : commit 98dfd45eb8e634d7a65ed06e2f6434054b742f3e (HEAD -> master)
+git log : commit 98dfd45eb8e634d7a65ed06e2f6434054b742fch3e (HEAD -> master)
 
 git show <commit-hash>
 
