@@ -38,4 +38,12 @@ git checkout master(User@LAPTOP-14CFCGFC MINGW64 ~/Desktop/github (master))
 
 git checkout add(User@LAPTOP-14CFCGFC MINGW64 ~/Desktop/github (add))
 
+git push origin add
+
+git ignore
+
+linus tolwards 
+
+
+
 
